@@ -61,9 +61,9 @@ console.log("Final Price : " + finalPrice);
 // Not Eligible
 // Use comparison operator.
 
-let age = prompt("Enter your age:");
+let age1 = prompt("Enter your age:");
 
-if (age >= 18) {
+if (age1 >= 18) {
     console.log("Eligible for Vote");
 } else {
     console.log("Not Eligible");
